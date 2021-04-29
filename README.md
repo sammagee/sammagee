@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey! 👋
+🧪 I am currently working as a full stack dev at IMT Insurance, and I run a small independent workshop called [Krafted](https://krafted.dev).
+
+💼 If you'd like to, you can check out a few of my favorite projects I've worked on, pinned below! If you'd like to see more, check out [my portfolio](https://sammagee.me/work).
+<br><br><br>
+✉️ If you'd like to reach me to talk about a cool new idea you have, contact me at hi@krafted.dev.
 
 <!--
 **sammagee/sammagee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
