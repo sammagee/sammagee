@@ -1,11 +1,11 @@
 ### Hey! 👋
 #### My goal is to craft beautiful experiences that solve your problems
 
-🖋️ I am a full stack developer and designer. I currently work at Principal and am working toward my Master's at Vanderbilt University. Check out some of my favorite projects below, as well as a list of my posts at [sammagee.me](https://sammagee.me).
+🖋️  I am a full stack developer and designer. I currently work at Principal and am working toward my Master's at Vanderbilt University. Check out some of my favorite projects below, as well as a list of my posts at [sammagee.me](https://sammagee.me).
 
-🧪 I am currently working as a software engineer at Principal, and I run a small independent workshop called [Krafted](https://krafted.dev).
+🧪  I am currently working as a frontend software engineer at Marqeta, and I run a small independent workshop called [Krafted](https://krafted.dev).
 
-💼 If you'd like to, you can check out a few of my favorite projects I've worked on, pinned below! If you'd like to see more, check out [my portfolio](https://sammagee.me/work).
+💼  If you'd like to, you can check out a few of my favorite projects I've worked on, pinned below! If you'd like to see more, check out [my portfolio](https://sammagee.me/work).
 <br><br><br>
 ✉️ If you'd like to reach me to talk about a cool new idea you have, contact me at hi@krafted.dev.
 
