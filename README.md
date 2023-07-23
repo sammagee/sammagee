@@ -1,7 +1,7 @@
 ### Hey! 👋
 #### My goal is to craft beautiful experiences that solve your problems
 
-I am a design-focused web engineer, currently @ Uber. Find some of my projects or contact me at [sammagee.me](https://sammagee.me).
+I am a design-focused web engineer, currently @ Uber. You can find some of my projects or contact me at [sammagee.me](https://sammagee.me).
 
 <!--
 **sammagee/sammagee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
