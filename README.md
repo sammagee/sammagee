@@ -1,7 +1,8 @@
 ### Hey! 👋
-#### My goal is to craft beautiful experiences that solve your problems
+#### I design and build software that makes complex work feel simple
 
-I am a design-focused web engineer, currently @ Vanta. You can find some of my projects or contact me at [sammagee.me](https://sammagee.me).
+I'm a Senior Software Engineer at Vanta, building the future of trust and compliance software.
+You can find some of my projects or contact me at [sammagee.me](https://sammagee.me).
 
 <!--
 **sammagee/sammagee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
